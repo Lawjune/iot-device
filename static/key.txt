@@ -1,0 +1,5 @@
+{
+  "ProductKey": "hdusQi48NSt",
+  "DeviceName": "lawjune_device_001",
+  "DeviceSecret": "ab128862e9b6064cb3d014fb84b9f508"
+}
