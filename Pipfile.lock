@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "75a2b62e276dc6d3d96e305761daf22f564f187089b08ffb35b8a4e8d749e8cb"
+            "sha256": "628ab22821f632b25bb5d7999fa6104778ed74fd7ddc614ba4a711fb5d97a6eb"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,6 +16,50 @@
         ]
     },
     "default": {
+        "aliyun-iot-linkkit": {
+            "hashes": [
+                "sha256:b1653f5307e791e8b683c3a8777982ab5286bde93bdd26e8c2b1bbb7fc11d3fe"
+            ],
+            "index": "pypi",
+            "version": "==1.2.3"
+        },
+        "crcmod": {
+            "hashes": [
+                "sha256:50586ab48981f11e5b117523d97bb70864a2a1af246cf6e4f5c4a21ef4611cd1",
+                "sha256:69a2e5c6c36d0f096a7beb4cd34e5f882ec5fd232efb710cdb85d4ff196bd52e",
+                "sha256:737fb308fa2ce9aed2e29075f0d5980d4a89bfbec48a368c607c5c63b3efb90e",
+                "sha256:dc7051a0db5f2bd48665a990d3ec1cc305a466a77358ca4492826f41f283601e"
+            ],
+            "version": "==1.7"
+        },
+        "h2": {
+            "hashes": [
+                "sha256:93cbd1013a2218539af05cdf9fc37b786655b93bbc94f5296b7dabd1c5cadf41",
+                "sha256:af35878673c83a44afbc12b13ac91a489da2819b5dc1e11768f3c2406f740fe9"
+            ],
+            "version": "==2.6.2"
+        },
+        "hpack": {
+            "hashes": [
+                "sha256:0edd79eda27a53ba5be2dfabf3b15780928a0dff6eb0c60a3d6767720e970c89",
+                "sha256:8eec9c1f4bfae3408a3f30500261f7e6a65912dc138526ea054f9ad98892e9d2"
+            ],
+            "version": "==3.0.0"
+        },
+        "hyper": {
+            "hashes": [
+                "sha256:069514f54231fb7b5df2fb910a114663a83306d5296f588fffcb0a9be19407fc",
+                "sha256:12c82eacd122a659673484c1ea0d34576430afbe5aa6b8f63fe37fcb06a2458c"
+            ],
+            "version": "==0.7.0"
+        },
+        "hyperframe": {
+            "hashes": [
+                "sha256:05f0e063e117c16fcdd13c12c93a4424a2c40668abfac3bb419a10f57698204e",
+                "sha256:4dcab11967482d400853b396d042038e4c492a15a5d2f57259e2b5f89a32f755"
+            ],
+            "version": "==3.2.0"
+        },
         "paho-mqtt": {
             "hashes": [
                 "sha256:2a8291c81623aec00372b5a85558a372c747cbca8e9934dfe218638b8eefc26f"

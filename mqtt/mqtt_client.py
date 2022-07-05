@@ -1,6 +1,6 @@
 import paho.mqtt.client as mqtt
 import logging
-import ssl
+# import ssl
 
 from common.safe_thread import SafeThread
 

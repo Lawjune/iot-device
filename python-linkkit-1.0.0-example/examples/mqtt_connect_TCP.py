@@ -7,10 +7,10 @@ __log_format = '%(asctime)s-%(process)d-%(thread)d - %(name)s:%(module)s:%(funcN
 logging.basicConfig(format=__log_format)
 
 lk = linkkit.LinkKit(
-    host_name="cn-shanghai",
-    product_key="xxxxxxxxxxx",
-    device_name="device-name",
-    device_secret="yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy")
+    host_name="iot-06z00ixr2mvpm49.mqtt.iothub.aliyuncs.com",
+    product_key="hdusQi48NSt",
+    device_name="lawjune_device_001",
+    device_secret="ab128862e9b6064cb3d014fb84b9f508")
 
 lk.enable_logger(logging.DEBUG)
 
